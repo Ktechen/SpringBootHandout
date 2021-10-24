@@ -21,9 +21,10 @@ sudo apt-get install openjdk-17-jre
 | ------------- 				|:-------------:|
 | @RestController    				|	Der Controller verarbeitet RESTful services	| 
 | @GetMapping/@RequestMapping(method=GET) 	|   HTTP-Anfragen z.B GET/POST/PUT/DELETE		|  
-| @Bean 		|     		|   
-| @Component		|     		|   
-| @Configuration		|     		|   
+| @Bean 					|     		|   
+| @Component					|     		|   
+| @Configuration				|     		|   
+| @Autowired					|     		|   
 
 ## Java Basics
 
