@@ -9,7 +9,7 @@ sudo apt-get install openjdk-17-jre
 
 [Quickstart](https://spring.io/quickstart)
 [Project tool](https://start.spring.io/)
-	Dependencies: Spring Web
+	-- Dependencies: Spring Web
 
 ## From Rails to Spring boot
 
