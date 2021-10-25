@@ -44,3 +44,4 @@ sudo apt-get install openjdk-17-jre
 2. kubernetes: https://spring.io/guides/topicals/spring-on-kubernetes/
 3. Gateway: https://spring.io/guides/gs/gateway/
 4. Google api e.g: https://spring.io/guides/gs/messaging-gcp-pubsub/
+5. Redis: https://spring.io/guides/gs/messaging-redis/
