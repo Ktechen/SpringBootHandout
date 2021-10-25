@@ -19,14 +19,14 @@ sudo apt-get install openjdk-17-jre
 
 | annotations   					| Beschreibung  | 
 | ------------- 					|:-------------:|
-| @RestController    					|Der Controller verarbeitet RESTful services	| 
-| @GetMapping/@RequestMapping(method=GET) 		|HTTP-Anfragen z.B GET/POST/PUT/DELETE		|  
+| @RestController    					|  Der Controller verarbeitet RESTful services	| 
+| @GetMapping/@RequestMapping(method=GET) 		|  HTTP-Anfragen z.B GET/POST/PUT/DELETE	|  
 | @Bean 						|     						|   
 | @Component						|     						|   
 | @Configuration					|     						|   
 | @Autowired						|     						|
 | @RequestParam(value = "name", defaultValue = "World")	|  set default parameter   			| 
-| @NotNull						|  return is not null   			| 
+| @NotNull						|  check is not null   				| 
 | @Size(min=2, max=30)					|  range from x to y   				| 
 | @Min(18)						|  min value    				| 
 
