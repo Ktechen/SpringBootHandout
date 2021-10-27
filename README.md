@@ -21,14 +21,14 @@ sudo apt-get install openjdk-17-jre
 | ------------- 					|:-------------:|
 | @RestController    					|  Der Controller verarbeitet RESTful services	| 
 | @GetMapping/@RequestMapping(method=GET) 		|  HTTP-Anfragen z.B GET/POST/PUT/DELETE	|  
-| @Bean 						|     						|   
-| @Component						|     						|   
-| @Configuration					|     						|   
-| @Autowired						|     						|
+| @Bean 						|  https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html   						|   
+| @Configuration					|  https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02.html   						|   
+| @Autowired						|  https://www.baeldung.com/spring-autowire   						|
 | @RequestParam(value = "name", defaultValue = "World")	|  set default parameter   			| 
 | @NotNull						|  check is not null   				| 
 | @Size(min=2, max=30)					|  range from x to y   				| 
 | @Min(18)						|  min value    				| 
+
 
 ## Java Basics
 
