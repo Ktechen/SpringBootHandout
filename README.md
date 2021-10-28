@@ -16,6 +16,7 @@ sudo apt-get install openjdk-17-jre
 	Dependencies: Spring Web
 	
 ## Spring boot basic annotations
+https://spring.io/guides/gs/rest-service/
 
 | annotations   					| Beschreibung  | 
 | ------------- 					|:-------------:|
